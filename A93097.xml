@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good-ale monopolized, and the tapsters persecuted: or Iustice, right, or wrong.</title>
+            <author>Sheppard, S. (Samuel)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93097</idno>
+            <idno type="STC">Wing S3165B</idno>
+            <idno type="STC">Thomason E745_8</idno>
+            <idno type="STC">ESTC R207064</idno>
+            <idno type="EEBO-CITATION">99866138</idno>
+            <idno type="PROQUEST">99866138</idno>
+            <idno type="VID">166956</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93097)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166956)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 114:E745[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good-ale monopolized, and the tapsters persecuted: or Iustice, right, or wrong.</title>
+                  <author>Sheppard, S. (Samuel)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Rob. Goodfellow about Midsummer moon.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: By Raphael Desmos [an anagram of the author's name?], in behalf of his brethren.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>A satire on Robert Tichborne.</note>
+                  <note>Annotation on Thomason copy: "Alderm: Tichborne July. 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tichborne, Robert, --  Sir, d. 1682 --  Humor --  Early works to 1800.</term>
+               <term>Satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:166956:1" rendition="simple:additions"/>
+            <head>GOOD-ALE MONOPOLIZED, AND THE Tapſters perſecuted: OR Iuſtice, right, or wrong.</head>
+            <head type="sub">Printed by <hi>Rob. Goodfellow</hi> a bout Midſummer Moon. 1654.</head>
+            <p>WHen it ſhalbe wiſely conſidered, that we, of this moſt re<g ref="char:EOLhyphen"/>verend City, are become ſo notorious for aſſerting, and (in diſmal wiſe) wreſtling for that deare <hi>liberty</hi> which our Anceſtors (as they ſay) left us; and for defence of which, we have had the honor to ſee (amongſt other learned pates) the <hi>pericranium</hi> of honeſt <hi>Legiſlative-Iohn</hi> ſo perturbed, and his more coſtly vitalls dangerouſly hazarded: and that we are at length <hi>mounted</hi> to the uppermoſt round of the <hi>ladder,</hi> to enjoy and entaile which pre<g ref="char:EOLhyphen"/>ferment with a ſucceeding plenitude of that ineſtimable Jewell hight as aforeſaid. We cannot but agree it moſt neceſſary to re<g ref="char:EOLhyphen"/>commend to the next Election for preſervation thereof, a moſt worſhipfull perſon (amidſt many others we might alſo propoſe) whoſe <hi>modeſty</hi> we believe is ſuch, that he will not allow himſelf to be named amongſt the thouſands of <hi>Iſrael.</hi> We ſhall there<g ref="char:EOLhyphen"/>fore take the boldneſs to <hi>hang</hi> him forth in <hi>effigie,</hi> with an inſcrip<g ref="char:EOLhyphen"/>tion of his <hi>perfections,</hi> ſufficient (no doubt) to endeare him to the well-affected, and by which alſo you may (without <hi>ſpectacles)</hi> diſcover his Worſhips face.</p>
+            <p>Be it therfore known unto, and underſtood by all manner of
+<pb n="2" facs="tcp:166956:2"/> 
+               <hi>Brethren</hi> and <hi>Sisters,</hi> that the perſon intended was a very fine and hopefull Gent. certainly, when in his minority he thought it not inconſiſtent with his greatneſs (his Father being born before him) to humble himſelf that he might be exalted, by giving his pretty aſſiſtance to the grand Solemnities done in thoſe innocent dayes to his politike mother <hi>the place of his nativity:</hi> Daigning there<g ref="char:EOLhyphen"/>fore to ride or be carried (the termes in this caſe are convertible) <hi>in ludo ſpectaculo,</hi> where yet the <note place="margin">There are no o<g ref="char:EOLhyphen"/>ther words to be found in <hi>Rider</hi> for a <hi>Pageant.</hi>
+               </note> Reader ought to be admoniſhed, that our yon<g ref="char:EOLhyphen"/>kers garb and countenance for the time being was ſo appoſite, and every little circumſtance ſo contrived by the <hi>Taylor</hi> and the <hi>Poet,</hi> as if it had been purpoſed for his glory. With what honor and acclamations our ſtripling came off when the <hi>ſhow</hi> was done, ſome Readers may be preſu<g ref="char:EOLhyphen"/>med to remember better. However, <hi>with half an eye, might be ſeen hereby, that our Lad was a ſpark of metall.</hi>
+            </p>
+            <p>Well, Time (as ſaith a modern Poet) that doth all things, that makes botches <hi>Pox,</hi> and plodding on doth make a Calf an <hi>Oxe,</hi> makes our Wight at length a <hi>Souldier; Durante quo,</hi> to tell you by what exquiſite hand his <hi>Buff Coat</hi> and <hi>red Breeches</hi> (not forgetting his <hi>Feather)</hi> were faſhioned, and the price, were moſt injuriouſly to detain the Reader: It may ſuffice, that the <hi>Bark</hi> of this <hi>Cinamon</hi> tree was more worth then his <hi>body.</hi> There<g ref="char:EOLhyphen"/>fore inſtead of a <hi>Chorus,</hi> be pleaſed we pray to ſuppoſe our <hi>Captain</hi> (for ſuch he now is) equipp'd as aforeſaid on his march (like <hi>Iehu)</hi> to a moſt horrible, terrible, bloudy battel, to be pitcht <hi>far in the Weſt, we wot not where.</hi>
+            </p>
+            <p>But by the way, to give ſome ſignal teſtimony of his <hi>Chivalry,</hi> and of the great hopes his friends and followers might erect up<g ref="char:EOLhyphen"/>on ſo infant atchievements, a lucky occaſion offered it ſelf, as ſhall in time be told: It fell out that upon a <hi>Tueſday,</hi> about ſix weeks after <hi>Kerſmas,</hi> when the <hi>Gun-powder</hi> Papiſts were (without doubt) at their prophane devotion, our <hi>Captain,</hi> as having no regard thereof, or indeed the fear of himſelf before his eyes; but being ſeduced by reading thoſe wicked books of Chivalry voluntarily (although without a Squire) and like a ſecond <hi>Don-Quixot,</hi> expoſed himſelf to be moſt lamentably <hi>blind-folded</hi> with a <hi>Hempen</hi> or <hi>Flaxen</hi> Napkin, at the diſcretion of two
+<pb n="3" facs="tcp:166956:2"/> ſage <hi>Damſels</hi> clad in white, and being immediately armed <hi>C<g ref="char:EOLhyphen"/>àpe,</hi> with a dreadful weapon in his hands eclipped a <hi>Flayl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> did moſt furiouſly encounter, aſſault, skirmiſh with, charge, and re<g ref="char:EOLhyphen"/>charge the valiant <hi>Chanticleere,</hi> all this while ſneaking or lurking in a hole, and not daring to ſhew more then his fearful Head and <hi>comb</hi> to this no leſs valiant <hi>Foe,</hi> whom yet at length our Captain (maugre all this <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eight) in ſingle combat, and un<g ref="char:EOLhyphen"/>daunted, made to breath out his laſt; whence all upon the place concluded, that this <hi>Fleſhing</hi> would (if his Spirit took not <hi>ruſt)</hi> make him (in time) prove moſt <hi>terrible,</hi> as indeed it appeared by the many ſlain afterwards upon the place by his ſingle valour, the ſtory whereof (if any ſuch were) has been already commu<g ref="char:EOLhyphen"/>nicated to the world in a Chronicle called <hi>Mercurius Civicus:</hi> And that the ſame Spirit of deſtruction, both of <hi>men, women,</hi> and <hi>children,</hi> remains ſtill in him, is ſo notorious, that at his Dinners and Suppers he breaths out nothing but ſlaughters.</p>
+            <p>Well, home we bring him now (and ſo you muſt ſuppoſe him) laden with Pig <hi>honor</hi> and <hi>renown,</hi> where after ſome competent time exhauſted in <hi>bleating</hi> his own ſaid atchievements, he again humbles himſelf, and betakes to the old <hi>What lack you?</hi> where we ought to leave him for a while. By this time you are chari<g ref="char:EOLhyphen"/>tably to believe, that by the <hi>zeal</hi> and <hi>noyſe</hi> of his <hi>beſt affected</hi> Neighbours (joyned to his worſhips no little <hi>uncouth</hi> ſtickling in the affair) the ſeveral parcels, in time, amount (according to <hi>London</hi> meaſure) to an <hi>Alderman:</hi> But becauſe an Ald. and a worſhipful Juſtice are neceſſary concomitants, we forbear to tell you that he was ſuch.</p>
+            <p>Theſe acquiſitions and additions render him furious with a witneſs, and now he layes about him more like a Mad-man then formerly, and on both ſides, without aim, deals his blows, and who would think it? For though he never had the benefit of his Clergy, yet it muſt be allowed good, that, as before his Sword, ſo now the word ſhall juſtifie theſe ſlaughters. By this time 'tis not ſafe to ſay <hi>why ſo?</hi> All's Goſpel we <hi>hold forth,</hi> and who dare us oppoſe ſhall find the might by which we <hi>rule</hi> and <hi>raign</hi> hath power to ſend the <hi>ſawey contradicting prater</hi> (no matter for his ſenſe or <hi>truth)</hi> to lye by th' heels, full 70. miles (far en<g ref="char:EOLhyphen"/>ough) hence, where eighteen moneths are ſpent, by <hi>Tom Tell-troth</hi> the Delinquent, in coyning Petitions, with variety
+<pb n="4" facs="tcp:166956:3"/> of choice Titles to this piece of <hi>Supremacy</hi> for pardon, that at length (in good time) his Honors ears are bored, he humbles now himſelf, and let's the <hi>Priſoner</hi> out, who as willing<g ref="char:EOLhyphen"/>ly returns, as if he had never taſted a <hi>Grape</hi> brought from <hi>Canaan.</hi>
+            </p>
+            <p>Our <hi>Capt.</hi> is erſt a <hi>Colonel,</hi> and in a happy hour (be it ſpoken) had a <hi>Call</hi> to be of the late Contenvion, where for his time he ſtruts, you may imagine how, and danceth gracefuly, to the Tune of Preferment, ſtudying to keep Time and his ſtanding; but not knowing, or forgetting that the beſt way to riſe is to <hi>lye down</hi> in a Bed of <hi>Humility;</hi> his <hi>Brethren</hi> ere long (conſcious to them<g ref="char:EOLhyphen"/>ſelves of a ſufficient unfitneſs to <hi>govern)</hi> reſigned their, and his greatneſs into the hands whence they derivce it.</p>
+            <p>And now we bring him home again (yet a <hi>Juſtice)</hi> full ſad and penſive (as if Planet-ſtrucken) at the loſs of his late bor<g ref="char:EOLhyphen"/>rowed <hi>Plumes:</hi> But being returned to the place whence he came, and finding that his malevolent <hi>Stars</hi> were not (for which he has ſince perſecuted the <hi>Astrologers)</hi> ſo true to him, as to give him warning of the danger attending his late miſtaken compliance with the ill-affected, and at that time too, being without any <hi>Revelations</hi> or <hi>Viſions,</hi> his only work was to retrieve (if poſſible) the favour ſo unhappily loſt, and to obtain for himſelf once more to ſit upon the <hi>Cuſhions</hi> of the <hi>Elect.</hi> To which purpoſe we muſt allow, that no part of <hi>Machiavel</hi> (within his capacity) was le<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t unread, unpractiſed: But when it was found that all his mimical cringing and Courtſhip more chargeable put upon the Royal Iſſue, amounted not to the gaining for his Ho<g ref="char:EOLhyphen"/>norable Worſhip a finger-room at the Helm, he betakes to new reſolutions, <hi>viz.</hi> to act the very Great <hi>Turk</hi> himſelf in little, that was, to tranſubſtantiate his petty Principality (although of no certain Tenure) into an <hi>Eu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>opian</hi> Republique, to be guber<g ref="char:EOLhyphen"/>nated by ſuch <hi>thirſty</hi> Lawes, as muſt needs render him to poſteri<g ref="char:EOLhyphen"/>ty <hi>famous,</hi> for the only Promulger, and (according to the new Dialect) the moſt exquiſite iH<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter and Holder forth of <hi>Monkiſh</hi> obſoleted abſtinence, and a nice Reformer of indifferencies. And now as ſaith another reverend Author, <hi>Shall dunghil dogs con<g ref="char:EOLhyphen"/>front the Helicon? Or ſhall his act want Chronicles, then Pistol lay thy head in Furies Lap.</hi>
+            </p>
+            <p>In the firſt place (his Throne being erected in no <hi>ignoble</hi> part of his dominions, yet) finding that his <hi>beard</hi> was not like to con<g ref="char:EOLhyphen"/>tract
+<pb n="5" facs="tcp:166956:3"/> profit enough for both <hi>Iuſtice</hi> and <hi>Clerk</hi> (to whom he allowes they ſay 10. l. yearly ſalary, and takes accompt of the profits) with a rabble of <hi>Raſcals</hi> in <hi>red ſcarlet,</hi> and moſt dirty <hi>Night-caps</hi> that now attend his Train, and buzz about his worſhip with equal devotion to a ſort of filthy <hi>Flyes</hi> that are obſerved to do homage to a <hi>Cow<g ref="char:EOLhyphen"/>turd:</hi> The ſad portent of this diſmal and offended <hi>Comet</hi> had an immediate and direful influence upon all the <hi>Red, Green,</hi> and <hi>Blue La<g ref="char:EOLhyphen"/>tices,</hi> nay to the very <hi>black pots</hi> and <hi>Cans</hi> within his Territories; and his zeal (hot as a burning <hi>Pestle)</hi> is daily and prodigiouſly exhau<g ref="char:EOLhyphen"/>ſted to the demolition, and to tall extirpation (root and branch) of all the non-confiding (to advance the practiſe of the Saintiſh) <hi>Tapſters</hi> of both Sexes, with all their wives, children, and relations, unhappily inhabiting within the reach of his <hi>Talons,</hi> many of which wretches are before this time either begging at others doors, or re<g ref="char:EOLhyphen"/>lieveable by the ſlender charity of their ſeveral Pariſhes, on whom his <hi>Almightineſs, wiſdome</hi> and Law too, has ſo great an influence, that an eaſie judgment may gueſs their miſery, when they are accounted by our Juſtice no leſs worthy of deſtruction then <hi>Bel</hi> and the <hi>Dra<g ref="char:EOLhyphen"/>gon,</hi> and the great <hi>Whore,</hi> to whom all Nations bow down and worſhip, and therefore fit, very wonderfully piouſly fit, to be ſwept out by this <hi>B<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſom</hi> of Reformation; this <hi>Phyſick,</hi> and <hi>diſeaſe</hi> of the place.</p>
+            <p>To tell the ſeverall executions of this ſort, which his Worſhip is renowned for, the ſeveral houſes ſhut up, and <hi>L. have mercy</hi> written on their doors, by reaſon of this peſtilence, were an Herculean task, <hi>hic labor, &amp;c.</hi> the ſtones at his threſhold having long groaned with the perſecuted Petitioners tedious and frequent attendance on this righteous Judge, to no other purpoſe then to be undone, ſeem to be more mollifiable and malleable then his obdurate ſtomack, although all the lenitives, with ſtrength of arguments, not wanting a good proportion of Divinity and morality, mixt and applied at all hou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es by the very hands equall with him in power, have been carefully and daily adminiſtred. But leſt all this may ſeem a Romance, or a ſcan<g ref="char:EOLhyphen"/>dal to wound our <hi>Saint</hi> withall, take a ſtory or two for illuſtration.</p>
+            <p>They ſay (and we have it on good accompt) that a pretty black well truſs'd muſical <hi>Vintner,</hi> inhabiting South from the rayes of this <hi>Blazing ſtar,</hi> having for good cauſes ſhut up that paſſage of his houſe that might give moſt offence, was neceſſitated to entertain ſomtimes at the other door (and the <hi>change</hi> in this caſe pleads <hi>anti<g ref="char:EOLhyphen"/>quity)</hi> ſuch friends as would come round about. Now he poſſibly
+<pb n="6" facs="tcp:166956:4"/> conceiving no great harm in purſuing the faſhion, he (as others make <hi>mixtures</hi> in <hi>Religion)</hi> only permitted, according to the advice given him, a cup of Engliſh <hi>Ale</hi> to attend his <hi>Hippocrene:</hi> But the poor man was taken at it by the fellow in <hi>Searlet,</hi> or he with the naſty night-cap aforeſaid: The little <hi>Law</hi> book is by our Iuſtice ſearched, and the penalty in moſt barbarous manner exacted. Another wor<g ref="char:EOLhyphen"/>ſhipfull wa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rant is iſſued under band and broad ſeale, the <hi>Constable</hi> (an enemy) imployed in the execution. No reſpect to be given (ſo ſaith our Warrant) to <hi>Betty</hi> his wife, their ſix children, or any of them. The darkeſt time of the night was fitteſt for this ſervice. In ſhort, <hi>Tom</hi> was haled out of his bed, out of houſe, and the Center to which this line tended, was (we muſt needs ſay) no worſe a place then a <hi>Kings</hi> houſe, whither a knaviſh boy in <hi>Pauls</hi> Church-yard ſent 1. <hi>Iac.</hi> a fellow in a <hi>blew bonnet</hi> (inquiring the way) thither, and was afterwards kickt for his paines, becauſe it proved to be a goale called <hi>Bridewell.</hi> Thither, thither our merry Vintner is arrived, and committed only for ſelling 2. penniworth of <hi>Ale</hi> or <hi>Bear</hi> for a pen<g ref="char:EOLhyphen"/>ny, &amp; becauſe his ſongs were not to the tune of <hi>Hannah's</hi> hymnes, but thus ſaith the <hi>Law,</hi> and thus the great <hi>Executor</hi> thereof. Well, the malefactor is by the heels, troubles all his friends to be Mediators, and offer ſacrifice to the angry Deity, payes 19. s. 6. d. (there's ſix pence ſaved) for Petitions contrived with titles of the neweſt faſhi<g ref="char:EOLhyphen"/>on to the offended. But the doom is paſt and irrevocable, all inter<g ref="char:EOLhyphen"/>ceſſions are fruitleſs, for there was ſo much Wiſdome in the Sentence, that it might well be queſtioned if revoked. There our <hi>wine-tapſter</hi> is ordered to thraſh <hi>h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mp,</hi> drink ſmall beer, and <hi>ſing</hi> (if he can) till every minute of the <hi>moneth</hi> be out, for no other cauſe heard of then is aforeſaid &amp; for that his <hi>wife</hi> was by ill luck ſome kin to the <hi>Iuſtice.</hi>
+            </p>
+            <p>The next in order was a very poor neceſſitous wretched old <hi>wid<g ref="char:EOLhyphen"/>dow,</hi> who hath many ſmall <hi>children,</hi> living South E. from the blazing ſtar, having no other viſible way of ſubſiſtence for her ſelf and them, but the ſale to ſome of her neighbours, and that but ſometimes of a pot or two of <hi>Ale:</hi> to which imployment alſo ſhe has been brought up, and hath been licenced thereunto. There was not any diſorder or miſcarriage laid to her charge: And who would not ra<g ref="char:EOLhyphen"/>ther imagine this poor ſoul an object of compaſſion, then a ſubject for ſo much ſeverity and ſo little <hi>justice.</hi> But ſee what a reckoning ſhe is brought to.</p>
+            <p>
+               <hi>Inprimis</hi> for ſelling a full quart of <hi>Ale</hi> for 2. d. 20. s. This was taxed and levied by his Worſhip, borrowed and paid by the <hi>woman,</hi>
+               <pb n="7" facs="tcp:166956:4"/> though her whole eſtate is not worth (in the judgment of charity) <hi>ten ſhillings.</hi> And was not, think you, this 20. s. with many others, well diſtributed?</p>
+            <p>
+               <hi>Item,</hi> For ſelling another pot of the ſame liquor called a default after conviction) to be committed for a moneth to the houſe of cor<g ref="char:EOLhyphen"/>rection, and her children to be kept (in the mean time) by the Pariſh. This was alſo executed to the full.</p>
+            <p>
+               <hi>Item,</hi> For ſelling a flagon of Beer (to one of the <hi>Raſcalls</hi> aforeſaid) for three half pence, to be again ſent to <hi>Bridewell,</hi> there to remain till the next <hi>Quarter</hi> Seſſions, where ſhe now is this ſixth day of the ſixth moneth of the firſt year of our Liberties aforeſaid, beating <hi>hemp</hi> for her own poor maintenance, and her ſaid <hi>children</hi> are again diſpo<g ref="char:EOLhyphen"/>ſed to the little mercy and alms of the Pariſh. And this is the <hi>justice</hi> and <hi>judgment running</hi> down our <hi>ſtreets</hi> like a mighty <hi>river</hi> indeed.</p>
+            <p>To tell you how his Worſhips zeal was let ſlip againſt another poor woman for onely ſelling <hi>Porridge</hi> and <hi>Brewis</hi> to the Market people in <hi>Cheapſide</hi> (we think becauſe they are liquid commodities) or to be particular in the caſes of twice 40. within the territories and tortures of our Iuſtice, reduced to moſt ſad conditions, even ſeque<g ref="char:EOLhyphen"/>ſtred of their beings, were but to create an incredulity, yet ſo it is.</p>
+            <q>Sic volo, ſic jubeo, ſtat pro ratioze voluntas.</q>
+            <p>No matter for their complaints or their curſes caſt on the cauſe or on their ſtars, for deſigning them to live near ſo much <hi>Law,</hi> and ſo little <hi>Iuſtice.</hi> Nay, to add to their miſery, none dares relieve them for fear of ſome unheard of <hi>Law</hi> to commit them too for their <hi>Charity.</hi>
+            </p>
+            <p>With one ſtory more wee'll take leave, and indeed leave it to your judgements, whether ſo many yards of <hi>Zeal</hi> and <hi>Ignorance,</hi> with ſo much weight of <hi>Law</hi> and <hi>Imperiouſneſs,</hi> and ſo well mixt, are not a compoſition ſufficient to qualifie a reaſonable Gent. for a more pro<g ref="char:EOLhyphen"/>per imployment, then a member: And becauſe 'tis very new, it ſhall be a Uſe of application.</p>
+            <p>In the road indeed to this worſhips <hi>Powdering-tub,</hi> there dwelt lately (and his cottage ſtands there ſtill) an honeſt (we dare not ſay good) fellow, and of the ſinful quality aforeſaid, who in the mino<g ref="char:EOLhyphen"/>rity of his underſtanding, was in haſt blown up to a zelote, and ſwell'd with ſo much miſtaken choler, that taking the <hi>Pulpit</hi> Alarum he handles his Armes, and like an eſpecial <hi>Officer</hi> advances (in no worſe then his worſhips company) to aſſiſt the <hi>proud</hi> againſt the <hi>mighty:</hi> Blows were dealt, and victory obtained, wherein our ſmall
+<pb n="8" facs="tcp:166956:5"/> 
+               <hi>Officer</hi> had his ſhare, though not at that time of the <hi>Reward:</hi> That comes anon. Well, returning home he betakes like a ſober man to his <hi>Blue apron</hi> again, maintaining Hoſpitality for neighbors and ſtrangers, and that in the very place where he and his painful Wife have (with repu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation) enough ſojourned above fifty years. And be<g ref="char:EOLhyphen"/>cauſe his charity was ſomwhat extenſive, our Martyr with ſome mo<g ref="char:EOLhyphen"/>ney of his own (got by good husbandry, which ſhould be encoura<g ref="char:EOLhyphen"/>ged) and ſome borrowed by vertue of his better reputation. He e<g ref="char:EOLhyphen"/>rects in his own <hi>Pariſh</hi> a <hi>Monument</hi> of his Fame, to the advantage (as will be confeſſed on all hands) of both rich and poor inhabitants. Our <hi>juſtice</hi> is now concern'd to pay this man <hi>Arrears.</hi> A brace of moſt unſpeakable <hi>raſcally</hi> pedantick <hi>ſhreds,</hi> his neighbors, are both Informers and Proſecutors. The crime diſcovered by a trick <hi>ex officio.</hi> His <hi>fac ſimile</hi> is required to tranſcribe the laſt <hi>mittimus,</hi> which is done, and by this time (becauſe it was Quarter-day) the Delinquent is removed to the bottom of the ſtairs at the end of the paved Alley, to the <hi>Kings houſe</hi> aforeſaid, where we leave him too, whiſtling to the <hi>wheel</hi> to the tune of <hi>Iuſtice my Foe,</hi> &amp;c.</p>
+            <p>And now let the world, (thoſe eſpecially for whom this is intend<g ref="char:EOLhyphen"/>ed) judge whether ſuch a parcel of <hi>zeal</hi> and <hi>tyranny</hi> whom no cords of <hi>authority</hi> ſhould bind if he could help it, who thinks his <hi>Will</hi> the beſt Expoſitor and his <hi>Hand</hi> the beſt executor of <hi>penal Laws,</hi> believing them to be <hi>Briars</hi> and <hi>Sprindges</hi> made to catch every thing they lay hold on. One whom we may preſume fears not <hi>God,</hi> becauſe he ſo <hi>hates</hi> his <hi>neighbours.</hi> In ſhort, one in whom <hi>pride</hi> and <hi>ſtubborn<g ref="char:EOLhyphen"/>neſs</hi> is ſo rampant, that as he ſcorns the advice of his <hi>fellow officers,</hi> ſo believes himſelf maſter of their underſtandings. Whether this <hi>Gent.</hi> we ſay do not merit, abominably merit your <hi>ſuffrages</hi> at the next Election.</p>
+            <byline>By <hi>Raphael Deſmos,</hi> In behalf of his Brethren.</byline>
+         </div>
+      </body>
+   </text>
+</TEI>
